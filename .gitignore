@@ -3,3 +3,4 @@
 *.sqlite
 *.pem
 *.pfx
+dags/common/retaildatapipeline-470822-0e2235ba1a5a.json
